@@ -1,0 +1,7 @@
+fastapi[all]~=0.115.2
+streamlit>=1.39.0
+litellm
+pypdf
+openai==0.28
+chromadb
+langchain
